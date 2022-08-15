@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-Something jus to type.
+Something just to type.
