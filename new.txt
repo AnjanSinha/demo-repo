@@ -5,3 +5,6 @@ This is a add for git merge in branches.
 This is the change committed in feature branch.
 
 Changes for quicktest.
+
+This change is from master branch.
+
