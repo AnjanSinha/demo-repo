@@ -1,3 +1,5 @@
 hello this is another file
 
 This is a add for git merge in branches.
+
+This is the change committed in feature branch.
