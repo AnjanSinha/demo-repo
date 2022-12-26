@@ -1,7 +1,8 @@
 # Demo
 
-Something just to type in here
+Demo Repo
 
 ## Sub header
  
-This is just a check 
+Demo Sub header check
+
